@@ -8,7 +8,7 @@ Code to come
 
 This repository was built by <a href="https://scholar.google.com/citations?user=nVWQwHkAAAAJ&hl" target="_blank">Yang&nbsp;Liu</a> to accompany the following paper:
 
-> [Soft Augmentation for Image Classification]https://arxiv.org/abs/2211.04625).
+> [Soft Augmentation for Image Classification] (https://arxiv.org/abs/2211.04625).
 
 
 If something isn't clear or isn't working, let us know in the *Issues section* or contact [youngleoel@gmail.com](mailto:youngleoel@gmail.com).
